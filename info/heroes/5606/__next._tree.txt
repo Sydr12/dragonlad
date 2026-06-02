@@ -1,4 +1,4 @@
-:HL["/dragonlad/_next/static/chunks/0x38i8fhh01xp.css","style"]
+:HL["/dragonlad/_next/static/chunks/15ew-xb14hvxm.css","style"]
 :HL["/dragonlad/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dragonlad/_next/static/media/fba5a26ea33df6a3-s.p.0eehd8tgys7nv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dragonlad/char-card-frame.png","image"]
@@ -29,4 +29,4 @@
 :HL["/dragonlad/img/945667501241f7d324bfd62db2bb189b/Sprite_itemicon_650013.webp","image"]
 :HL["/dragonlad/img/f70174d5ab7acea0994fc6a583b8d1c7/Sprite_equip_icon_zhuangbei_6.webp","image"]
 :HL["/dragonlad/img/165b281d422d880ee0017ef4e9e24689/Sprite_skillicon_56062.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"info","param":null,"prefetchHints":0,"slots":{"children":{"name":"heroes","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"5606","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"JlFMpnQTt5iG1ITdjKfYz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"info","param":null,"prefetchHints":0,"slots":{"children":{"name":"heroes","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"5606","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"tKSlYAQRv9mHut1rctg1U"}
