@@ -1,5 +1,5 @@
-:HL["/dragonlad/_next/static/chunks/13he~yxuzo8j0.css","style"]
+:HL["/dragonlad/_next/static/chunks/0x38i8fhh01xp.css","style"]
 :HL["/dragonlad/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dragonlad/_next/static/media/fba5a26ea33df6a3-s.p.0eehd8tgys7nv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dragonlad/img/12e9781e9b06b6dee137debc4941a6ae/Sprite_MythsMagicIcon_803023.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"info","param":null,"prefetchHints":0,"slots":{"children":{"name":"skills","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"803023","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"BON_mCKfJu95dF0xKprvb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"info","param":null,"prefetchHints":0,"slots":{"children":{"name":"skills","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"803023","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"JlFMpnQTt5iG1ITdjKfYz"}
