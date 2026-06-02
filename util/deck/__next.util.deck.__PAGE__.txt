@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[897367,["/dragonlad/_next/static/chunks/05yds4wykh0o_.js","/dragonlad/_next/static/chunks/0i.l9589uvx0j.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"덱 시뮬레이터"}],["$","p",null,{"className":"text-slate-400","children":"준비 중 — 5명 편성, 직업/원소 조합 분석"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BON_mCKfJu95dF0xKprvb"}
+4:null
