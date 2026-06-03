@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[897367,["/dragonlad/_next/static/chunks/0inpl8-3qmb.z.js","/dragonlad/_next/static/chunks/0i.l9589uvx0j.js"],"OutletBoundary"]
+2:I[897367,["/dragonlad/_next/static/chunks/06kwm6-9s04nt.js","/dragonlad/_next/static/chunks/0i.l9589uvx0j.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"이벤트/픽업"}],["$","p",null,{"className":"text-slate-400","children":"준비 중 — 현재 배너 + 미래시"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jvA8gYe0YEqKexTSWbvhD"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"이벤트/픽업"}],["$","p",null,{"className":"text-[var(--text-secondary)]","children":"준비 중 — 현재 배너 + 미래시"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UKkE7ULn7lKkyKp7s55Fz"}
 4:null
